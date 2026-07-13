@@ -113,4 +113,4 @@ This repository accompanies the research work:
 
 **Interpretation of Models on the Onset of Diabetes using Machine Learning**
 
-The implementation presented in this repository is based on the methodology described in the accompanying conference paper. The publication is included in the `paper/` directory with permission for academic and portfolio purposes.
+The implementation presented in this repository is based on the methodology described in the accompanying conference paper. This project reflects the original implementation developed during undergraduate research in 2020. It has been preserved as part of my portfolio to document my work in healthcare machine learning using R.
