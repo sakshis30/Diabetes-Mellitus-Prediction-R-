@@ -102,3 +102,11 @@ The comparative analysis demonstrated that Logistic Regression achieved higher p
 - Cross-validation
 - Hyperparameter tuning
 - Shiny web application
+
+## 📄 Related Publication
+
+This repository accompanies the research work:
+
+**Interpretation of Models on the Onset of Diabetes using Machine Learning**
+
+The implementation presented in this repository is based on the methodology described in the accompanying conference paper. The publication is included in the `paper/` directory with permission for academic and portfolio purposes.
