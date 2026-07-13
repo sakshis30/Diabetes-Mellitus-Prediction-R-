@@ -4,6 +4,10 @@
 
 A machine learning project that predicts the onset of diabetes using supervised learning algorithms implemented in **R**. The project compares Logistic Regression and Decision Tree models on the Pima Indians Diabetes Dataset to identify the most effective classifier for diabetes prediction.
 
+## ℹ️ About this Repository
+
+This repository contains the implementation of a machine learning approach for diabetes prediction developed as part of an undergraduate research project. The implementation has been organized for educational and portfolio purposes while preserving the methodology presented in the associated publication.
+
 ## 📌 Project Overview
 
 Early diagnosis of diabetes plays a crucial role in improving patient outcomes and reducing healthcare risks. This project applies machine learning techniques to predict whether an individual is likely to have diabetes based on diagnostic measurements.
